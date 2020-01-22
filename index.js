@@ -44,7 +44,6 @@ myArray.shiftItems(0);
 console.log(myArray);
 
 
-
 function reverse(str){
   if(!str || typeof str != 'string' || str.length < 2 ) return str;
   
